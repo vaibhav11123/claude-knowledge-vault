@@ -1,0 +1,40 @@
+# Secrets / local env
+.env
+.env.*
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Large / personal exports (do not publish)
+*.zip
+claude-exports-*.zip
+!lexicon.example.yaml
+
+# Generated vault with personal chat content
+obsidian-vault/
+obsidian-vault-*/
+
+# Unrelated assignment artifacts
+VOICE_QA_ANALYSIS.pdf
+research_intern.pdf
+calls.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Lexicon suggestions (machine-generated)
+lexicon.suggestions.yaml
+lexicon.suggestions.md
+
+# Nested git (exporter ships with its own history; we vendor without .git)
+# Keep claude-exporter source; ignore its .git if present
+claude-exporter/.git/

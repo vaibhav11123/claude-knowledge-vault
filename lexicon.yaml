@@ -1,0 +1,195 @@
+self_entities: ["Vaibhav Singh"]
+co_occurrence_min: 2
+max_entities_per_conversation: 10
+
+people:
+  - name: Vaibhav Singh
+    aliases: ["Vaibhav Surendra Singh", "Vaibhav"]
+  - name: Arpan Kar
+    aliases: ["Prof. Arpan Kar", "Prof Arpan Kar", "Professor Arpan Kar"]
+  - name: Vlad Feinberg
+    aliases: ["Vlad"]
+  - name: Kimberly Tan
+  - name: Kushagra Singh
+    aliases: ["Kushagra"]
+  - name: Manoj
+  - name: Deepak
+  - name: Shashank
+
+projects:
+  - name: Hublet
+    aliases: ["Hublet ALPS", "ALPS"]
+  - name: Wardyn
+  - name: Sigflow
+  - name: Pause Layer
+  - name: Bolna
+  - name: Pallas
+  - name: Chinchilla
+  - name: Watchdog
+  - name: LatentForce
+  - name: STEMvibe
+  - name: Fable 5
+    aliases: ["Fable5"]
+  - name: Enterprise KB
+    aliases: ["Enterprise Knowledge Base"]
+  - name: Prompt Shields
+  - name: AI Governance
+  - name: startup-evaluator
+    aliases: ["startup evaluator"]
+  - name: sabf-application
+    aliases: ["SABF skill", "sabf skill"]
+  - name: Claustrophobicator
+  - name: DASS
+    aliases: ["DASS project"]
+  - name: BTP
+    aliases: ["B.Tech Project", "BTech Project"]
+
+topics:
+  - name: RAG
+    aliases: ["Retrieval Augmented Generation", "Retrieval-Augmented Generation"]
+  - name: JAX
+  - name: Flax
+  - name: GNN
+    aliases: ["Graph Neural Network", "Graph Neural Networks"]
+  - name: MongoDB
+  - name: LaTeX
+    aliases: ["Overleaf"]
+  - name: MATLAB
+  - name: Python
+  - name: Azure
+  - name: Exa
+    aliases: ["Exa AI"]
+  - name: NeMo Guardrails
+    aliases: ["NeMo Guardrail"]
+  - name: OWASP LLM Top 10
+    aliases: ["OWASP LLM"]
+  - name: Machine Learning
+    aliases: ["ML fundamentals", "ML internship"]
+  - name: Double Descent
+  - name: Vector Database
+    aliases: ["vector database", "vector DB"]
+  - name: NFC
+  - name: COBOL
+  - name: PowerPoint
+  - name: LinkedIn
+  - name: Instagram
+  - name: WhatsApp
+  - name: X / Twitter
+    aliases: ["Twitter", " on X "]
+  - name: IIT Delhi
+    aliases: ["IITD", "IT Delhi", "IIT Delhi"]
+    organization: true
+  - name: Anthropic
+    aliases: ["Claude Campus Ambassador", "Claude Student Ambassador", "Claude Ambassador", "Claude Campus", "Anthropic Hackathon", "Anthropic Ambassador"]
+    organization: true
+  - name: Claude Builder Club
+    aliases: ["Builder Club"]
+    organization: true
+  - name: Y Combinator
+    aliases: ["YC", "YC Deals", "YC Startup School", "Startup School India"]
+    organization: true
+  - name: Startup School
+    aliases: ["YC Startup School"]
+    organization: true
+  - name: Goldman Sachs
+    organization: true
+  - name: Amazon
+    organization: true
+  - name: EY
+    aliases: ["EY GDS", "EY RAG", "EY NHO", "EY internship"]
+    organization: true
+  - name: OpenAI
+    organization: true
+  - name: HPAIR
+    aliases: ["HPAIR Asia", "HPAIR Asia Conference"]
+    organization: true
+  - name: SABF
+    aliases: ["South American Business Forum"]
+    organization: true
+  - name: Nokia Ventures
+    organization: true
+  - name: South Park Commons
+    organization: true
+  - name: Knight-Hennessy Scholars
+    aliases: ["Knight-Hennessy", "Knight Hennessy"]
+    organization: true
+  - name: Atrium Frontier Fund
+    aliases: ["Atrium Frontier"]
+    organization: true
+  - name: MPI-CIS
+    aliases: ["MPI CIS"]
+    organization: true
+  - name: VinUniversity
+    organization: true
+  - name: German Embassy
+    aliases: ["GSDP"]
+    organization: true
+  - name: FITT
+    organization: true
+  - name: Business Today
+    aliases: ["Business Today International Conference", "IMC conference"]
+    organization: true
+  - name: Adani Power
+    organization: true
+  - name: Zepto
+    organization: true
+  - name: Shram
+    aliases: ["Founder's Office"]
+    organization: true
+  - name: Vals
+    aliases: ["Vals fellowship"]
+    organization: true
+  - name: Rhodes Scholarship
+    aliases: ["Rhodes scholarship"]
+    organization: true
+  - name: Harvard
+    aliases: ["Harvard MBA"]
+    organization: true
+  - name: Oxford MeasurEd
+    aliases: ["MeasurEd"]
+    organization: true
+  - name: AWS
+    aliases: ["MLU AWS", "Amazon Web Services"]
+    organization: true
+  - name: Student Incubation Cell
+    aliases: ["SInC", "SINC IITD", "SINC"]
+    organization: true
+  - name: CAIC
+    organization: true
+  - name: IRD IITD
+    aliases: ["IRD"]
+    organization: true
+  - name: DEV Community
+    aliases: ["DEV Community profile"]
+    organization: true
+  - name: Bangalore
+    aliases: ["Bengaluru", "EF Bangalore", "Indiranagar"]
+  - name: Buenos Aires
+  - name: London
+  - name: India
+  - name: Fellowships
+    aliases: ["fellowship", "fellowships"]
+  - name: CV / Resume
+    aliases: ["resume", "CV review", "CV formatting"]
+  - name: Hackathon
+    aliases: ["hackathon"]
+  - name: Internship
+    aliases: ["internship", "intern"]
+  - name: Sponsorship
+    aliases: ["sponsorship", "sponsor proposal"]
+  - name: Real Estate
+    aliases: ["PG property", "real estate"]
+  - name: Food Waste
+    aliases: ["biogas", "food processing waste"]
+  - name: Astrology
+    aliases: ["Vedic astrology"]
+  - name: FEM
+    aliases: ["Finite Element"]
+  - name: Manufacturing
+    aliases: ["Manufacturing engineering", "Manufacturing systems"]
+  - name: Neural Networks
+    aliases: ["Neural network", "Digit transformer"]
+  - name: Prompt Engineering
+    aliases: ["prompt"]
+  - name: Skills / Plugins
+    aliases: ["Claude skills", "skill-creator", "custom skill"]

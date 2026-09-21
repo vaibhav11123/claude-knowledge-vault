@@ -1,0 +1,23 @@
+# Example lexicon for Claude Knowledge Vault.
+# Copy to lexicon.yaml and fill with your people / projects / topics.
+
+self_entities: ["Alex Example"]
+co_occurrence_min: 2
+max_entities_per_conversation: 10
+
+people:
+  - name: Jordan Lee
+    aliases: ["J. Lee", "Jordan"]
+  - name: Sam Rivera
+    aliases: ["Samantha Rivera"]
+
+projects:
+  - name: Northstar
+    aliases: ["Northstar app", "Project Northstar"]
+
+topics:
+  - name: Acme Corp
+    aliases: ["Acme"]
+    organization: true
+  - name: Retrieval Augmented Generation
+    aliases: ["RAG"]
